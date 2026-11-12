@@ -6,6 +6,7 @@
 **文档类型：** 需求说明 & 操作手册
 
 ---
+<img width="1080" height="1237" alt="image" src="https://github.com/user-attachments/assets/bf2945e8-a85f-4070-9fbc-de0c2de24b3e" />
 
 ## 一、产品概述
 
